@@ -1,0 +1,7 @@
+可以简单理解为，需要提交的文件修改通通放到暂存区，然后，一次性提交暂存区的所有修改。
+
+俗话说，实践出真知。现在，我们再练习一遍，先对readme.txt做个修改，比如加上一行内容：
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
